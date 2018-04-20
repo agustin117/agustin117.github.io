@@ -1,0 +1,16 @@
+body{
+  bacground-color: #fff;
+}
+
+.example{
+  height: 300px;
+  background-color: blue;
+}
+.footer{
+  background-color: #000;
+  color: #fff;
+}
+.footer{
+  display: inline-block;
+  text-align:center;
+}
